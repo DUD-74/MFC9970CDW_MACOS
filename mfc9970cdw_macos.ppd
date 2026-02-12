@@ -16,7 +16,6 @@
 *1284DeviceID: "MFG:Brother;MDL:MFC-9970CDW"
 *cupsVersion: 1.1
 *cupsManualCopies: false
-%*cupsFilter: "application/vnd.cups-postscript 0 brlpdwrappermfc9970cdw"
 *cupsModelNumber: 4
 *ModelName: "Brother MFC-9970CDW"
 *ShortNickName: "MFC-9970CDW"
